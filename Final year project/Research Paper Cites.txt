@@ -1,0 +1,19 @@
+Research Paper Cites:
+
+1. Durai, S. K. S., & Shamili, M. D. (2022). Smart farming using machine learning and deep learning techniques. Decision Analytics Journal, 3, 100041.
+
+2. Gupta, S., Chopade, A., Jain, N., & Bhonde, A. (2022). Farmer's Assistant: A Machine Learning Based Application for Agricultural Solutions. arXiv preprint arXiv:2204.11340.
+
+3. Kumar, T., & Prakash, N. (2020). Adoption of ai in agriculture: the game-changer for indian farmers. In Proceedings of the 13th IADIS International Conference ICT, Society and Human Beings 2020, ICT 2020 and Proceedings of the 6th IADIS International Conference Connected Smart Cities 2020, CSC 2020 and Proceedings of the 17th IADIS International Conference Web Based Communities and Social Media 2020, WBC 2020-Part of the 14th Multi Conference on Computer Science and Information Systems, MCCSIS 2020 (pp. 204-208).
+
+4. Bondre, D. A., & Mahagaonkar, S. (2019). Prediction of crop yield and fertilizer recommendation using machine learning algorithms. International Journal of Engineering Applied Sciences and Technology, 4(5), 371-376.
+
+5. Pawar, S., Dere, S., Akangire, A., Kamble, H., & Shrawne, S. (2021). Smart farming using machine learning. Smart Comput.
+
+6. Kapoor, S., Aggarwal, I., & Kumar Ray, A. (2022). Smart Agriculture Farming Using Harvestify Web App. Available at SSRN 4157630.
+
+7. Sachin Adulkar, Vivek Pawar, Aniket Choudhari, Shubham Kothekar, Shruti Agrawal."Harvestify - Crop Disease Detection and Fertilizer Suggestion using CNN", Volume 11, Issue IV, International Journal for Research in Applied Science and Engineering Technology (IJRASET) Page No: 3596-3604, ISSN : 2321-9653, www.ijraset.com
+
+8. Elbasi, E., Mostafa, N., AlArnaout, Z., Zreikat, A. I., Cina, E., Varghese, G., ... & Zaki, C. (2022). Artificial intelligence technology in the agricultural sector: a systematic literature review. IEEE Access.
+
+9. Steenwerth, K. L., Hodson, A. K., Bloom, A. J., Carter, M. R., Cattaneo, A., Chartres, C. J., ... & Jackson, L. E. (2014). Climate-smart agriculture global research agenda: scientific basis for action. Agriculture & Food Security, 3(1), 1-39.
